@@ -37,6 +37,10 @@ luosidingpm 就是为了解决这些问题而设计的。
 ## 输出prd参考
 交互形式：深度对话➕模块追问
 <img width="923" height="542" alt="image" src="https://github.com/user-attachments/assets/bfce4eca-c5b4-40df-92d2-55a7eb194da9" />
+<img width="923" height="990" alt="image" src="https://github.com/user-attachments/assets/11a9a97a-26fc-4063-97ca-58d2460bdd3a" />
+<img width="923" height="984" alt="image" src="https://github.com/user-attachments/assets/54b81bac-db7d-4e93-b625-c02451b000ce" />
+<img width="923" height="620" alt="image" src="https://github.com/user-attachments/assets/64191b68-65bc-4733-aa6f-b76e9188b3a3" />
+<img width="923" height="669" alt="image" src="https://github.com/user-attachments/assets/f94e514b-f337-4c11-a6a1-b4965bbfe8bc" />
 
 ---
 
