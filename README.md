@@ -13,43 +13,46 @@
 
 ### luosidingpm 就是为了解决这些问题而设计的。
 
-它不是一个“快速套模板写文档”的工具，而是一套用硬规则、深度追问和模块化 workflow 逼着 PM 把问题想清楚、把文档写透、把后续测试和实验衔接起来的技能仓库。
-
-在这里，PRD 不是终点，测试用例、A/B 实验、系统图和评审也不是孤立动作。它们都被当作同一个产品问题在不同阶段的表达方式来处理。
+它不是一个“快速套模板写文档”的工具，而是一套用硬规则、深度追问和模块化 workflow 逼着 PM 把问题想清楚、把文档写透、把后续测试和实验衔接起来的技能仓库。在这里，PRD 不是终点，测试用例、A/B 实验、系统图和评审也不是孤立动作。它们都被当作同一个产品问题在不同阶段的表达方式来处理。
 
 ---
 
-## 仓库定位
+## 仓库能力
 
-本仓库适合互联网公司中的产品经理、增长产品经理、商家/运营产品经理、平台产品经理使用。
-
-仓库中的 Skills 不是模板库，而是工作方法库。每个 Skill 都对应一类明确任务：
+本仓库适合互联网公司中的产品经理、增长产品经理、商家/运营产品经理、平台产品经理使用。仓库中的 Skills 不是模板库，而是工作方法库。每个 Skill 都对应一类明确任务：
 
 - `prd-deep-interview`：通过深度对话生成一份 PRD
+- `test-case`：按照PRD生成评审测试用例
+- `ab-test-setup`：按照PRD设计 A/B 实验
+- `excalidraw-diagram-skill`：按照PRD生成概念关系图、系统框架图等
+- `playwright-interactive`：用于浏览器交互、调试和验证页面流程，Agent会亲自打开网站，进行界面交互操作（点击、输入对话、查看异常case）
 - `pm-review-board`：站在多个角色视角 review 一份 PRD 或方案
-- `test-case`：生成、补全、评审测试用例
-- `ab-test-setup`：设计 A/B 实验
-- `excalidraw-diagram-skill`：生成概念关系图、系统框架图等
-- `playwright-interactive`：用于浏览器交互、调试和验证页面流程，做竞品分析的
 
 ---
 
 ## 输出prd参考
 ### 交互形式：深度对话➕模块追问
-<img width="923" height="542" alt="image" src="https://github.com/user-attachments/assets/bfce4eca-c5b4-40df-92d2-55a7eb194da9" />
+<img width="1400" height="650" alt="image" src="https://github.com/user-attachments/assets/bfce4eca-c5b4-40df-92d2-55a7eb194da9" />
 
 ### PRD内容
-<img width="923" height="990" alt="image" src="https://github.com/user-attachments/assets/11a9a97a-26fc-4063-97ca-58d2460bdd3a" />
-<img width="923" height="984" alt="image" src="https://github.com/user-attachments/assets/54b81bac-db7d-4e93-b625-c02451b000ce" />
+<img width="1443" height="905" alt="image" src="https://github.com/user-attachments/assets/4497d909-8864-478b-a0c8-c1e0874ab660" />
+<img width="1400" height="984" alt="image" src="https://github.com/user-attachments/assets/54b81bac-db7d-4e93-b625-c02451b000ce" />
 
 ### 竞品分析(playwright浏览器进行操作和截图）
-<img width="923" height="888" alt="image" src="https://github.com/user-attachments/assets/c9e4ad7b-58e1-4377-97bf-d008341b0195" />
+<img width="1400" height="888" alt="image" src="https://github.com/user-attachments/assets/c9e4ad7b-58e1-4377-97bf-d008341b0195" />
+<img width="1400" height="650" alt="image" src="https://github.com/user-attachments/assets/520ab2ef-686d-4e50-849c-fa049f6d4620" />
+
 
 ### Excalidraw角色流程图
-<img width="923" height="735" alt="image" src="https://github.com/user-attachments/assets/1335c1fa-e69d-4244-9377-5cfb4feb907c" />
+<img width="1400" height="735" alt="image" src="https://github.com/user-attachments/assets/1335c1fa-e69d-4244-9377-5cfb4feb907c" />
 
 ### Mermaid时序图
-<img width="923" height="669" alt="image" src="https://github.com/user-attachments/assets/f94e514b-f337-4c11-a6a1-b4965bbfe8bc" />
+<img width="1400" height="669" alt="image" src="https://github.com/user-attachments/assets/f94e514b-f337-4c11-a6a1-b4965bbfe8bc" />
+
+### 测试案例
+<img width="1671" height="905" alt="image" src="https://github.com/user-attachments/assets/2b2167ee-8289-40b5-9429-7954f2043a7e" />
+
+
 
 ---
 
