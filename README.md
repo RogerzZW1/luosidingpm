@@ -210,6 +210,10 @@ Claude 自定义 Skill 使用时，需要保证每个 Skill 目录中的 `SKILL.
 
 ## 基本使用方式
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3916589d-7b30-4f1a-8a05-301bca06d831" />
+
+
+
 如果你是第一次使用这套仓库，最简单的方式是：
 
 1. 对你的agent说：“我想写一份prd，请使用luosidingpm skill中的`prd-deep-interview“
