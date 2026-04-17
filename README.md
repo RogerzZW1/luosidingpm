@@ -26,6 +26,7 @@
 - `ab-test-setup`：按照PRD设计 A/B 实验
 - `excalidraw-diagram-skill`：按照PRD生成概念关系图、系统框架图等
 - `playwright-interactive`：用于浏览器交互、调试和验证页面流程，Agent会亲自打开网站，进行界面交互操作（点击、输入对话、查看异常case）
+- `mcp-server-guide-main`：调用figma MCP在画布上实现设计，是到元素级别的，不是一张完整图
 - `pm-review-board`：站在多个角色视角 review 一份 PRD 或方案
 
 ---
