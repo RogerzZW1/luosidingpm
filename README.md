@@ -33,7 +33,7 @@
 
 ## 输出prd参考
 ### 交互形式：深度对话➕模块追问
-<img width="1400" height="650" alt="image" src="https://github.com/user-attachments/assets/bfce4eca-c5b4-40df-92d2-55a7eb194da9" />
+<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/bfce4eca-c5b4-40df-92d2-55a7eb194da9" />
 
 ### PRD内容
 <img width="1443" height="905" alt="image" src="https://github.com/user-attachments/assets/4497d909-8864-478b-a0c8-c1e0874ab660" />
